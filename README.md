@@ -47,7 +47,7 @@ cd db-api-to-gtfs
 nohup ./db_to_gtfs.py --api-key <API_KEY> --start-date 2015-12-13 --end-date 2016-12-11 > std.txt 2> err.txt &
 tail -f std.txt`
 ```
-* Wait for approximately 2 days until script finishes
+* Wait for approximately 2 days until the script finishes
 * Download the data
 
 # License
