@@ -19,7 +19,7 @@ GTFS feeds are provided per full timetable period.
 
 Please refer to the [releases](https://github.com/fredlockheed/db-fv-gtfs/releases) page.
 
-# How these GTFS Files are Produced
+# How This GTFS Feed is Produced
 
 Provided GTFS files are produced using the [db_to_gtfs.py](https://raw.githubusercontent.com/patrickbr/db-api-to-gtfs/master/db_to_gtfs.py) Python script from the [db-api-to-gtfs](https://github.com/patrickbr/db-api-to-gtfs) project. (It is done without any knowledge of, consent of or endorsment from the author of the [db-api-to-gtfs](https://github.com/patrickbr/db-api-to-gtfs) project.)
 
