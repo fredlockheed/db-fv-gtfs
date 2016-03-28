@@ -21,7 +21,9 @@ Please refer to the [releases](https://github.com/fredlockheed/db-fv-gtfs/releas
 
 # How This GTFS Feed is Produced
 
-Provided GTFS files are produced using the [db_to_gtfs.py](https://raw.githubusercontent.com/patrickbr/db-api-to-gtfs/master/db_to_gtfs.py) Python script from the [db-api-to-gtfs](https://github.com/patrickbr/db-api-to-gtfs) project. (It is done without any knowledge of, consent of or endorsment from the author of the [db-api-to-gtfs](https://github.com/patrickbr/db-api-to-gtfs) project.)
+Provided GTFS files are produced using the [db_to_gtfs.py](https://raw.githubusercontent.com/patrickbr/db-api-to-gtfs/master/db_to_gtfs.py) Python script from the [db-api-to-gtfs](https://github.com/patrickbr/db-api-to-gtfs) project.
+
+It is done without any knowledge of, consent of, or endorsment from the author of the [db-api-to-gtfs](https://github.com/patrickbr/db-api-to-gtfs) project.
 
 # Instructions
 
