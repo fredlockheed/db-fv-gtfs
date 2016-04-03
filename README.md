@@ -1,4 +1,4 @@
-# Unofficial DB Fernverkehr Timetable GTFS Feed
+# Unofficial Deutsche Bahn Fernverkehr (German Railways Long-Distance Trains) Timetable 2016 GTFS Feed
 
 Deutsche Bahn (German Railways) now publishes its long-distance trains timetable via [REST-like API](http://data.deutschebahn.com/apis/fahrplan/) under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
