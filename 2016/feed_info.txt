@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date
+"DB-to-GTFS converter, based on DB Fahrplan API data",https://github.com/fredlockheed/db-fv-gtfs,de,20151213,20161211

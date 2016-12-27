@@ -33,12 +33,12 @@ Anyone with enough server resources an patience can produce the provided GTFS fe
 * Launch an AWS EC2 Instance
   * Prefer EU (Frankfurt) region
   * Prefer Debian GNU/Linux 8 (Jessie) AMI
-  * Recommended `m4.xlarge` instance size due to memory and network resources
+  * Even the smallest `t2.nano` should be fine
 * Connect via `ssh`
 * Execute:  
 ```
 sudo apt-get update
-sudo apt-get ugrade
+sudo apt-get upgrade
 sudo apt-get install git
 sudo apt-get install python-pip
 sudo pip install docopt
@@ -46,10 +46,10 @@ sudo pip install python-dateutil
 sudo pip install unicodecsv
 git clone https://github.com/patrickbr/db-api-to-gtfs.git
 cd db-api-to-gtfs
-nohup ./db_to_gtfs.py --api-key <API_KEY> --start-date 2015-12-13 --end-date 2016-12-11 > std.txt 2> err.txt &
+nohup ./db_to_gtfs.py --api-key <API_KEY> --start-date 2016-12-11 --end-date 2017-12-10 > std.txt 2> err.txt &
 tail -f std.txt`
 ```
-* Wait for approximately 2 days until the script finishes
+* Wait for approximately 2-3 days until the script finishes
 * Download the data
 
 # License

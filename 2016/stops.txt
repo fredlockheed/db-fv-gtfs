@@ -1,0 +1,564 @@
+stop_id,stop_name,stop_lat,stop_lon,stop_timezone
+2000004,Smolensk,54.79834,32.034462,Europe/Moscow
+2000021,Wjasma,55.19739,34.317551,Europe/Moscow
+2000058,Moskva Belorusskaja,55.776672,37.579809,Europe/Moscow
+2000158,Osinovka(Gr),54.707073,31.002033,Europe/Moscow
+2100001,Brest Central,52.100435,23.680679,Europe/Moscow
+2100003,Minsk-Passajirskii,53.890736,27.550643,Europe/Moscow
+2100012,Orscha Central,54.520834,30.374883,Europe/Moscow
+2100013,Baranovichi Centralnye,53.142608,26.027079,Europe/Moscow
+2100149,Brest(Gr),52.098898,23.673856,Europe/Moscow
+5100005,Bydgoszcz Glowna,53.135111,17.99164,Europe/Warsaw 
+5100009,Gdansk Glowny,54.355523,18.643807,Europe/Warsaw 
+5100010,Gdynia Glowna,54.520843,18.529554,Europe/Warsaw 
+5100013,Gniezno,52.529652,17.602182,Europe/Warsaw 
+5100015,Inowroclaw,52.804947,18.244057,Europe/Warsaw 
+5100026,Konin,52.231399,18.253333,Europe/Warsaw 
+5100032,Kutno,52.226958,19.348615,Europe/Warsaw 
+5100056,Sopot,54.440165,18.56232,Europe/Warsaw 
+5100061,Tczew,54.097317,18.790151,Europe/Warsaw 
+5100065,Warszawa Centralna,52.228864,21.003233,Europe/Warsaw 
+5100066,Warszawa Wschodnia,52.251544,21.052332,Europe/Warsaw 
+5100067,Warszawa Zachodnia,52.219974,20.965244,Europe/Warsaw 
+5100071,Zbaszynek,52.242509,15.818093,Europe/Warsaw 
+5100081,Poznan Gl.,52.401996,16.910866,Europe/Warsaw 
+5100082,Rzepin,52.350218,14.815076,Europe/Warsaw 
+5100084,Terespol,52.074142,23.601223,Europe/Warsaw 
+5101104,Gdansk Oliwa,54.40989,18.57174,Europe/Warsaw 
+5101307,Gdansk Wrzeszcz,54.381861,18.605432,Europe/Warsaw 
+5103284,Swiebodzin,52.245143,15.539535,Europe/Warsaw 
+5400001,Brno hl.n.,49.190537,16.612775,Europe/Prague 
+5400003,Decin hl.n.,50.773411,14.201248,Europe/Prague 
+5400014,Praha hl.n.,50.083058,14.436037,Europe/Prague 
+5400019,Usti nad Labem hl.n.,50.659563,14.044728,Europe/Prague 
+5400022,Kolin(CZ),50.025437,15.214278,Europe/Prague 
+5400161,Pardubice hl.n.,50.031738,15.756211,Europe/Prague 
+5400201,Praha-Holesovice,50.110214,14.44001,Europe/Prague 
+5400202,Breclav,48.753904,16.893239,Europe/Prague 
+5403739,Breclav(Gr),48.712553,16.868401,Europe/Prague 
+5500003,Budapest-Keleti,47.500385,19.085069,Europe/Budapest 
+5500006,Szob,47.820994,18.862056,Europe/Budapest 
+5500008,Kelenföld,47.464356,19.020455,Europe/Budapest 
+5500009,Tatabanya,47.584929,18.39361,Europe/Budapest 
+5500016,Mosonmagyarovar,47.850353,17.266426,Europe/Budapest 
+5500017,Hegyeshalom,47.913502,17.147022,Europe/Budapest 
+5500080,Györ,47.681985,17.634795,Europe/Budapest 
+5500913,Nagymaros-Visegrad,47.790889,18.958798,Europe/Budapest 
+5501413,Vac,47.782727,19.133063,Europe/Budapest 
+5501629,Hegyeshalom(Gr),47.938492,17.095451,Europe/Budapest 
+5600025,Nove Zamky,47.994999,18.173959,Europe/Prague 
+5600081,Kuty,48.66189,17.047691,Europe/Prague 
+5600207,Bratislava hl.st.,48.158908,17.106463,Europe/Prague 
+5603738,Kuty(Gr),48.711367,16.999905,Europe/Prague 
+5603743,Szob(Gr),47.824896,18.84477,Europe/Prague 
+5603745,Sturovo,47.800121,18.679917,Europe/Prague 
+7800020,Zagreb Glavni Kolod.,45.804453,15.978478,Europe/Belgrade 
+7900001,Jesenice(SL),46.43635,14.053304,Europe/Belgrade 
+7900002,Lesce-Bled,46.360427,14.157632,Europe/Belgrade 
+7900003,Ljubljana,46.058686,14.51294,Europe/Belgrade 
+7900004,Zidani Most,46.085267,15.170708,Europe/Belgrade 
+7900014,Kranj,46.23901,14.348168,Europe/Belgrade 
+7900017,Dobova,45.898804,15.654552,Europe/Belgrade 
+7900018,Sevnica,46.009461,15.301024,Europe/Belgrade 
+7900030,Krsko,45.956227,15.493286,Europe/Belgrade 
+7900042,Dobova(Gr),45.892251,15.698626,Europe/Belgrade 
+7900043,Jesenice(Gr),46.481413,14.020331,Europe/Belgrade 
+8000001,Aachen Hbf,50.767802,6.091495,Europe/Berlin 
+8000002,Aalen,48.841009,10.09627,Europe/Berlin 
+8000004,Altenbeken,51.766432,8.943323,Europe/Berlin 
+8000008,Kehl(Gr),48.577742,7.799238,Europe/Berlin 
+8000009,Ansbach,49.29803,10.578236,Europe/Berlin 
+8000010,Aschaffenburg Hbf,49.980554,9.143692,Europe/Berlin 
+8000013,Augsburg Hbf,48.365444,10.885568,Europe/Berlin 
+8000014,Aulendorf,47.953055,9.64405,Europe/Berlin 
+8000020,Bad Hersfeld,50.869632,9.716179,Europe/Berlin 
+8000025,Bamberg,49.900757,10.899492,Europe/Berlin 
+8000026,Basel Bad Bf,47.567292,7.607804,Europe/Berlin 
+8000029,Bebra,50.969565,9.797783,Europe/Berlin 
+8000031,Bensheim,49.68133,8.616717,Europe/Berlin 
+8000036,Bielefeld Hbf,52.029258,8.532722,Europe/Berlin 
+8000039,Bingen(Rhein) Hbf,49.968724,7.884258,Europe/Berlin 
+8000041,Bochum Hbf,51.478606,7.223273,Europe/Berlin 
+8000044,Bonn Hbf,50.732007,7.097136,Europe/Berlin 
+8000045,Boppard Hbf,50.231416,7.586104,Europe/Berlin 
+8000049,Braunschweig Hbf,52.252218,10.540292,Europe/Berlin 
+8000050,Bremen Hbf,53.083477,8.813833,Europe/Berlin 
+8000055,Bruchsal,49.124619,8.589651,Europe/Berlin 
+8000057,Buchloe,48.033724,10.71622,Europe/Berlin 
+8000058,Büchen,53.474976,10.623299,Europe/Berlin 
+8000059,Bünde(Westf),52.202076,8.573875,Europe/Berlin 
+8000064,Celle,52.621171,10.062704,Europe/Berlin 
+8000067,Crailsheim,49.137869,10.064322,Europe/Berlin 
+8000068,Darmstadt Hbf,49.872503,8.629635,Europe/Berlin 
+8000070,Delmenhorst,53.052788,8.629761,Europe/Berlin 
+8000073,Singen(Hohentwiel),47.758438,8.840378,Europe/Berlin 
+8000076,Soest,51.578422,8.104593,Europe/Berlin 
+8000077,Donaueschingen,47.947787,8.498923,Europe/Berlin 
+8000078,Donauwörth,48.714028,10.771441,Europe/Berlin 
+8000079,Puttgarden(MS),54.502047,11.227904,Europe/Berlin 
+8000080,Dortmund Hbf,51.517898,7.459293,Europe/Berlin 
+8000082,Düsseldorf Flughafen,51.292008,6.786837,Europe/Berlin 
+8000084,Düren,50.809512,6.482454,Europe/Berlin 
+8000085,Düsseldorf Hbf,51.21996,6.794316,Europe/Berlin 
+8000086,Duisburg Hbf,51.429786,6.775906,Europe/Berlin 
+8000087,Solingen Hbf,51.160766,7.004187,Europe/Berlin 
+8000091,Steinach(b Rothenburg ob der Tauber),49.45322,10.273537,Europe/Berlin 
+8000093,Elze(Han),52.120148,9.746895,Europe/Berlin 
+8000095,Straubing,48.876975,12.574093,Europe/Berlin 
+8000096,Stuttgart Hbf,48.784081,9.181636,Europe/Berlin 
+8000098,Essen Hbf,51.451351,7.014795,Europe/Berlin 
+8000101,Eutingen im Gäu,48.479949,8.782236,Europe/Berlin 
+8000103,Flensburg,54.774043,9.436525,Europe/Berlin 
+8000105,Frankfurt(Main)Hbf,50.107149,8.663785,Europe/Berlin 
+8000107,Freiburg(Breisgau) Hbf,47.997695,7.841173,Europe/Berlin 
+8000108,Freilassing,47.836914,12.977196,Europe/Berlin 
+8000111,Friedberg(Hess),50.332607,8.762055,Europe/Berlin 
+8000112,Friedrichshafen Stadt,47.65322,9.473902,Europe/Berlin 
+8000114,Fürth(Bay)Hbf,49.469706,10.989987,Europe/Berlin 
+8000115,Fulda,50.554722,9.68398,Europe/Berlin 
+8000116,Traunstein,47.869725,12.638797,Europe/Berlin 
+8000118,Gelsenkirchen Hbf,51.5049,7.102458,Europe/Berlin 
+8000122,Treuchtlingen,48.961267,10.908158,Europe/Berlin 
+8000124,Gießen,50.579056,8.661466,Europe/Berlin 
+8000127,Göppingen,48.700022,9.651969,Europe/Berlin 
+8000128,Göttingen,51.536811,9.926068,Europe/Berlin 
+8000129,Treysa,50.910659,9.185672,Europe/Berlin 
+8000139,Günzburg,48.460334,10.278652,Europe/Berlin 
+8000141,Tübingen Hbf,48.515807,9.055409,Europe/Berlin 
+8000142,Hagen Hbf,51.362744,7.460246,Europe/Berlin 
+8000147,Hamburg-Harburg,53.455909,9.991698,Europe/Berlin 
+8000149,Hamm(Westf),51.678077,7.807823,Europe/Berlin 
+8000150,Hanau Hbf,50.120956,8.929003,Europe/Berlin 
+8000151,Bad Bentheim(Gr),52.309111,7.039758,Europe/Berlin 
+8000152,Hannover Hbf,52.376763,9.741016,Europe/Berlin 
+8000155,Heide(Holst),54.193564,9.101029,Europe/Berlin 
+8000156,Heidelberg Hbf,49.403563,8.675444,Europe/Berlin 
+8000159,Helmstedt,52.222086,11.010554,Europe/Berlin 
+8000162,Herford,52.119609,8.663641,Europe/Berlin 
+8000163,Tuttlingen,47.98058,8.798542,Europe/Berlin 
+8000168,Uelzen,52.969782,10.553057,Europe/Berlin 
+8000169,Hildesheim Hbf,52.160627,9.953494,Europe/Berlin 
+8000170,Ulm Hbf,48.399432,9.982224,Europe/Berlin 
+8000174,Viersen,51.254946,6.403897,Europe/Berlin 
+8000176,Homburg(Saar)Hbf,49.328081,7.337031,Europe/Berlin 
+8000177,Horb,48.441475,8.688982,Europe/Berlin 
+8000181,Husum,54.472275,9.055022,Europe/Berlin 
+8000182,Immendingen,47.936002,8.729532,Europe/Berlin 
+8000183,Ingolstadt Hbf,48.744537,11.437335,Europe/Berlin 
+8000189,Kaiserslautern Hbf,49.43614,7.768711,Europe/Berlin 
+8000191,Karlsruhe Hbf,48.993511,8.402181,Europe/Berlin 
+8000192,Wanne-Eickel Hbf,51.531256,7.165787,Europe/Berlin 
+8000194,Kaufbeuren,47.875433,10.629492,Europe/Berlin 
+8000196,Warburg(Westf),51.492953,9.163846,Europe/Berlin 
+8000197,Kempten(Allgäu)Hbf,47.711748,10.317611,Europe/Berlin 
+8000199,Kiel Hbf,54.314982,10.131975,Europe/Berlin 
+8000206,Koblenz Hbf,50.350927,7.588342,Europe/Berlin 
+8000207,Köln Hbf,50.943029,6.958729,Europe/Berlin 
+8000211,Krefeld Hbf,51.325718,6.569883,Europe/Berlin 
+8000213,Kreiensen,51.851425,9.967796,Europe/Berlin 
+8000225,Leer(Ostfriesl),53.231647,7.46528,Europe/Berlin 
+8000228,Lichtenfels,50.14645,11.059473,Europe/Berlin 
+8000230,Lindau Hbf,47.544342,9.680465,Europe/Berlin 
+8000235,Ludwigsburg,48.891861,9.18542,Europe/Berlin 
+8000236,Ludwigshafen(Rh)Hbf,49.477985,8.4334,Europe/Berlin 
+8000237,Lübeck Hbf,53.867543,10.669818,Europe/Berlin 
+8000238,Lüneburg,53.249652,10.419891,Europe/Berlin 
+8000240,Mainz Hbf,50.001112,8.258722,Europe/Berlin 
+8000244,Mannheim Hbf,49.479351,8.468917,Europe/Berlin 
+8000249,Memmingen,47.985578,10.186854,Europe/Berlin 
+8000250,Wiesbaden Hbf,50.070788,8.243728,Europe/Berlin 
+8000252,Minden(Westf),52.290134,8.934729,Europe/Berlin 
+8000253,Mönchengladbach Hbf,51.196579,6.44611,Europe/Berlin 
+8000257,Worms Hbf,49.634937,8.356444,Europe/Berlin 
+8000259,Mülheim(Ruhr)Hbf,51.431341,6.88651,Europe/Berlin 
+8000260,Würzburg Hbf,49.801794,9.935777,Europe/Berlin 
+8000261,München Hbf,48.140228,11.558338,Europe/Berlin 
+8000262,München Ost,48.127437,11.604975,Europe/Berlin 
+8000263,Münster(Westf)Hbf,51.956563,7.635716,Europe/Berlin 
+8000266,Wuppertal Hbf,51.254361,7.149543,Europe/Berlin 
+8000271,Neumünster,54.075752,9.979815,Europe/Berlin 
+8000274,Neuss Hbf,51.204354,6.684522,Europe/Berlin 
+8000275,Neustadt(Weinstr)Hbf,49.349556,8.140757,Europe/Berlin 
+8000279,Nienburg(Weser),52.645568,9.217754,Europe/Berlin 
+8000283,Northeim(Han),51.703139,9.98662,Europe/Berlin 
+8000284,Nürnberg Hbf,49.445615,11.082989,Europe/Berlin 
+8000286,Oberhausen Hbf,51.474876,6.851587,Europe/Berlin 
+8000290,Offenburg,48.476479,7.946724,Europe/Berlin 
+8000291,Oldenburg(Oldb),53.144325,8.222711,Europe/Berlin 
+8000294,Osnabrück Hbf,52.272848,8.061777,Europe/Berlin 
+8000297,Paderborn Hbf,51.712982,8.740508,Europe/Berlin 
+8000298,Passau Hbf,48.573634,13.450775,Europe/Berlin 
+8000299,Pforzheim Hbf,48.894154,8.703095,Europe/Berlin 
+8000301,Plattling,48.779622,12.863941,Europe/Berlin 
+8000302,Plochingen,48.713084,9.410807,Europe/Berlin 
+8000306,Rastatt,48.86048,8.215619,Europe/Berlin 
+8000307,Recklinghausen Hbf,51.616357,7.203487,Europe/Berlin 
+8000309,Regensburg Hbf,49.011669,12.099615,Europe/Berlin 
+8000310,Remagen,50.577213,7.229781,Europe/Berlin 
+8000312,Rendsburg,54.302262,9.671134,Europe/Berlin 
+8000314,Reutlingen Hbf,48.496075,9.209116,Europe/Berlin 
+8000316,Rheine,52.2763,7.434258,Europe/Berlin 
+8000318,Rheydt Hbf,51.163031,6.439566,Europe/Berlin 
+8000320,Rosenheim,47.85002,12.119202,Europe/Berlin 
+8000322,Rottweil,48.165299,8.639298,Europe/Berlin 
+8000323,Saarbrücken Hbf,49.241065,6.991018,Europe/Berlin 
+8000329,Schwäbisch Gmünd,48.801007,9.787796,Europe/Berlin 
+8000331,Andernach,50.434545,7.404837,Europe/Berlin 
+8000333,Hausach,48.284928,8.181666,Europe/Berlin 
+8000337,Marburg(Lahn),50.819274,8.775017,Europe/Berlin 
+8000339,Mühlacker,48.953195,8.846104,Europe/Berlin 
+8000349,Offenbach(Main)Hbf,50.099265,8.760743,Europe/Berlin 
+8000366,Villingen(Schwarzw),48.058022,8.465258,Europe/Berlin 
+8000368,Wabern(Bz Kassel),51.103136,9.35804,Europe/Berlin 
+8000377,Weinheim(Bergstr),49.553306,8.665349,Europe/Berlin 
+8000385,Gunzenhausen,49.120448,10.755467,Europe/Berlin 
+8000403,Aachen Süd(Gr),50.731917,6.045407,Europe/Berlin 
+8000459,Ainring,47.815034,12.964503,Europe/Berlin 
+8000483,Alfeld(Leine),51.981418,9.817775,Europe/Berlin 
+8000522,Hude,53.109429,8.460952,Europe/Berlin 
+8000571,Lippstadt,51.670688,8.348785,Europe/Berlin 
+8000635,Assmannshausen,49.985327,7.867359,Europe/Berlin 
+8000664,Augustfehn,53.220886,7.759659,Europe/Berlin 
+8000667,Montabaur,50.444838,7.825334,Europe/Berlin 
+8000718,Bad Krozingen,47.919723,7.697633,Europe/Berlin 
+8000732,Bad Oeynhausen,52.205393,8.79652,Europe/Berlin 
+8000737,Bad Reichenhall,47.731165,12.88182,Europe/Berlin 
+8000738,Bad Reichenhall-Kirchberg,47.718535,12.874,Europe/Berlin 
+8000770,Bad Zwischenahn,53.182547,8.003123,Europe/Berlin 
+8000774,Baden-Baden,48.790328,8.190827,Europe/Berlin 
+8000800,Norden,53.588195,7.218913,Europe/Berlin 
+8000831,Bayerisch Gmain,47.720378,12.89507,Europe/Berlin 
+8000879,Bad Bentheim,52.309848,7.158541,Europe/Berlin 
+8000880,Radolfzell,47.735875,8.968987,Europe/Berlin 
+8000885,Berchtesgaden Hbf,47.626683,12.999058,Europe/Berlin 
+8000891,Schlüchtern,50.341174,9.510038,Europe/Berlin 
+8000935,Bad Bevensen,53.078246,10.574137,Europe/Berlin 
+8000943,Biberach(Riß),48.101844,9.793127,Europe/Berlin 
+8000997,Bischofswiesen,47.651889,12.960143,Europe/Berlin 
+8001055,Böblingen,48.687761,9.004126,Europe/Berlin 
+8001083,Bonn-Beuel,50.738479,7.127654,Europe/Berlin 
+8001274,Fehmarn-Burg,54.44359,11.188981,Europe/Berlin 
+8001443,Diepholz,52.604775,8.380337,Europe/Berlin 
+8001751,Ellwangen,48.964117,10.129683,Europe/Berlin 
+8001763,Eltville,50.027558,8.121529,Europe/Berlin 
+8001767,Emden Außenhafen,53.34447,7.186174,Europe/Berlin 
+8001768,Emden Hbf,53.369038,7.195172,Europe/Berlin 
+8001774,Emmerich(Gr),51.901261,6.137358,Europe/Berlin 
+8001787,Bad Endorf,47.905061,12.301558,Europe/Berlin 
+8001844,Erlangen,49.595896,11.001906,Europe/Berlin 
+8001920,Esslingen(Neckar),48.738811,9.300077,Europe/Berlin 
+8001995,Fischen,47.45659,10.271712,Europe/Berlin 
+8002007,Flensburg(Gr),54.80635,9.42554,Europe/Berlin 
+8002021,Forbach(fr),49.214089,6.94431,Europe/Berlin 
+8002041,Frankfurt(Main)Süd,50.099364,8.686456,Europe/Berlin 
+8002042,Frankfurt(Main)West,50.118862,8.639334,Europe/Berlin 
+8002187,Garmisch-Partenkirchen,47.49145,11.097012,Europe/Berlin 
+8002206,Geilenkirchen,50.961034,6.124521,Europe/Berlin 
+8002218,Geislingen(Steige),48.619353,9.841938,Europe/Berlin 
+8002461,Gütersloh Hbf,51.906942,8.385074,Europe/Berlin 
+8002504,Haffkrug,54.054186,10.742684,Europe/Berlin 
+8002548,Hamburg Dammtor,53.560751,9.989568,Europe/Berlin 
+8002549,Hamburg Hbf,53.552732,10.006908,Europe/Berlin 
+8002553,Hamburg-Altona,53.552696,9.935174,Europe/Berlin 
+8002554,Hamburg-Bergedorf,53.489835,10.206172,Europe/Berlin 
+8002570,Hammerau,47.795878,12.946129,Europe/Berlin 
+8002757,Heppenheim(Bergstr),49.641553,8.633374,Europe/Berlin 
+8002806,Herzogenrath,50.870917,6.094488,Europe/Berlin 
+8003001,Hornberg(Schwarzw),48.21189,8.232941,Europe/Berlin 
+8003016,Hünfeld,50.673272,9.762456,Europe/Berlin 
+8003036,Ibbenbüren,52.276866,7.721482,Europe/Berlin 
+8003065,Immenstadt,47.559201,10.214002,Europe/Berlin 
+8003102,Itzehoe,53.92387,9.51029,Europe/Berlin 
+8003155,Venlo(Gr),51.340999,6.192578,Europe/Berlin 
+8003184,Karlsruhe-Durlach,49.00233,8.462822,Europe/Berlin 
+8003200,Kassel-Wilhelmshöhe,51.313115,9.446898,Europe/Berlin 
+8003330,Köln/Bonn Flughafen,50.8789,7.119303,Europe/Berlin 
+8003368,Köln Messe/Deutz,50.940871,6.975,Europe/Berlin 
+8003400,Konstanz,47.658757,9.177312,Europe/Berlin 
+8003487,Hannover Messe/Laatzen,52.316895,9.792866,Europe/Berlin 
+8003494,Lahr(Schwarzw),48.340436,7.834737,Europe/Berlin 
+8003515,Landstuhl,49.416283,7.565932,Europe/Berlin 
+8003545,Langenhagen Mitte,52.440281,9.725429,Europe/Berlin 
+8003680,Limburg Süd,50.382498,8.096107,Europe/Berlin 
+8003701,Lingen(Ems),52.519863,7.321731,Europe/Berlin 
+8003866,Marienhafe,53.520892,7.270727,Europe/Berlin 
+8003930,Meckenbeuren,47.699757,9.558391,Europe/Berlin 
+8003978,Meppen,52.696024,7.298018,Europe/Berlin 
+8004009,Metzingen(Württ),48.539727,9.290153,Europe/Berlin 
+8004043,Mittenwald,47.440031,11.265704,Europe/Berlin 
+8004044,Mittenwald(Gr),47.39807,11.267439,Europe/Berlin 
+8004124,Müllheim(Baden),47.80974,7.599327,Europe/Berlin 
+8004158,München-Pasing,48.149892,11.461489,Europe/Berlin 
+8004185,Murnau,47.682264,11.19263,Europe/Berlin 
+8004305,Neumarkt(Oberpf),49.27322,11.456985,Europe/Berlin 
+8004343,Niebüll,54.789603,8.834571,Europe/Berlin 
+8004449,Norddeich,53.621581,7.160825,Europe/Berlin 
+8004488,Nürtingen,48.628001,9.34265,Europe/Berlin 
+8004506,Oberau,47.559273,11.13927,Europe/Berlin 
+8004585,Oberstdorf,47.411032,10.278095,Europe/Berlin 
+8004610,Westerstede-Ocholt,53.202162,7.88647,Europe/Berlin 
+8004669,Oldenburg(Holst),54.283825,10.882835,Europe/Berlin 
+8004751,Papenburg(Ems),53.089707,7.386705,Europe/Berlin 
+8004760,Peine,52.318945,10.232142,Europe/Berlin 
+8004815,Piding,47.759544,12.91153,Europe/Berlin 
+8004885,Prien a Chiemsee,47.855513,12.346612,Europe/Berlin 
+8004903,Puttgarden,54.500366,11.226717,Europe/Berlin 
+8004965,Ravensburg,47.78448,9.606097,Europe/Berlin 
+8005213,Rüdesheim(Rhein),49.976886,7.915415,Europe/Berlin 
+8005321,Scharbeutz,54.018742,10.745759,Europe/Berlin 
+8005362,Schleswig,54.499458,9.538139,Europe/Berlin 
+8005424,Schorndorf,48.807147,9.526309,Europe/Berlin 
+8005556,Siegburg/Bonn,50.793916,7.203029,Europe/Berlin 
+8005561,Sierksdorf,54.068524,10.769104,Europe/Berlin 
+8005609,Sonthofen,47.51324,10.272342,Europe/Berlin 
+8005644,St Georgen(Schwarzw),48.123814,8.341953,Europe/Berlin 
+8005661,Stadtallendorf,50.825432,9.015281,Europe/Berlin 
+8005874,Timmendorferstrand,53.99421,10.762272,Europe/Berlin 
+8005902,Triberg,48.140003,8.236806,Europe/Berlin 
+8005927,Tutzing,47.907138,11.272886,Europe/Berlin 
+8005940,Übersee,47.822046,12.487338,Europe/Berlin 
+8006053,Vaihingen(Enz),48.948116,8.957633,Europe/Berlin 
+8006076,Verden(Aller),52.920818,9.237854,Europe/Berlin 
+8006272,Weil am Rhein,47.593972,7.608415,Europe/Berlin 
+8006369,Westerland(Sylt),54.90684,8.310922,Europe/Berlin 
+8006421,Wiesloch-Walldorf,49.291351,8.664145,Europe/Berlin 
+8006552,Wolfsburg Hbf,52.429494,10.787783,Europe/Berlin 
+8006730,Neu-Ulm,48.393041,10.004823,Europe/Berlin 
+8007768,Norddeich Mole,53.624313,7.158802,Europe/Berlin 
+8010004,Angermünde,53.015222,13.996357,Europe/Berlin 
+8010018,Bad Kleinen,53.766972,11.466927,Europe/Berlin 
+8010022,Bad Schandau,50.918839,14.139321,Europe/Berlin 
+8010033,Bergen auf Rügen,54.420497,13.41782,Europe/Berlin 
+8010036,Berlin-Lichtenberg,52.509894,13.496925,Europe/Berlin 
+8010050,Bitterfeld,51.622856,12.316848,Europe/Berlin 
+8010060,Brandenburg Hbf,52.400558,12.566137,Europe/Berlin 
+8010066,Bützow,53.837115,11.99819,Europe/Berlin 
+8010072,Coswig(b Dresden),51.122813,13.57941,Europe/Berlin 
+8010073,Cottbus,51.750952,14.324158,Europe/Berlin 
+8010077,Dessau Hbf,51.839865,12.234948,Europe/Berlin 
+8010085,Dresden Hbf,51.040562,13.732038,Europe/Berlin 
+8010089,Dresden-Neustadt,51.065902,13.740704,Europe/Berlin 
+8010093,Eberswalde Hbf,52.834018,13.797057,Europe/Berlin 
+8010097,Eisenach,50.976918,10.331985,Europe/Berlin 
+8010099,Elsterwerda,51.459675,13.516432,Europe/Berlin 
+8010101,Erfurt Hbf,50.972549,11.038501,Europe/Berlin 
+8010113,Frankfurt(Oder),52.33642,14.546497,Europe/Berlin 
+8010133,Jena-Göschwitz,50.883943,11.59354,Europe/Berlin 
+8010136,Gotha,50.939074,10.71257,Europe/Berlin 
+8010139,Greifswald,54.092921,13.370258,Europe/Berlin 
+8010159,Halle(Saale)Hbf,51.477509,11.987088,Europe/Berlin 
+8010193,Königs Wusterhausen,52.296634,13.631476,Europe/Berlin 
+8010195,Köthen,51.751932,11.989353,Europe/Berlin 
+8010205,Leipzig Hbf,51.346546,12.383333,Europe/Berlin 
+8010216,Ludwigslust,53.334672,11.494488,Europe/Berlin 
+8010217,Lübben(Spreewald),51.939735,13.877178,Europe/Berlin 
+8010220,Lübbenau(Spreewald),51.862167,13.960903,Europe/Berlin 
+8010222,Lutherstadt Wittenberg,51.867812,12.662286,Europe/Berlin 
+8010224,Magdeburg Hbf,52.130351,11.62689,Europe/Berlin 
+8010240,Naumburg(Saale)Hbf,51.163067,11.796984,Europe/Berlin 
+8010250,Neustrelitz Hbf,53.359257,13.074603,Europe/Berlin 
+8010255,Berlin Ostbahnhof,52.510972,13.434567,Europe/Berlin 
+8010268,Pasewalk,53.515355,13.988878,Europe/Berlin 
+8010282,Prenzlau,53.321611,13.866535,Europe/Berlin 
+8010297,Riesa,51.309654,13.287737,Europe/Berlin 
+8010304,Rostock Hbf,54.078242,12.131077,Europe/Berlin 
+8010309,Saalfeld(Saale),50.650313,11.374986,Europe/Berlin 
+8010324,Schwerin Hbf,53.634741,11.407455,Europe/Berlin 
+8010334,Stendal,52.594725,11.854407,Europe/Berlin 
+8010338,Stralsund Hbf,54.308626,13.077318,Europe/Berlin 
+8010355,Velgast,54.277317,12.803138,Europe/Berlin 
+8010361,Waren(Müritz),53.521513,12.680678,Europe/Berlin 
+8010366,Weimar,50.99149,11.326462,Europe/Berlin 
+8010368,Weißenfels,51.204615,11.970925,Europe/Berlin 
+8010382,Wittenberge,53.003114,11.76287,Europe/Berlin 
+8010396,Züssow,53.973877,13.548191,Europe/Berlin 
+8010404,Berlin-Spandau,52.53447,13.19753,Europe/Berlin 
+8010405,Berlin Wannsee,52.421053,13.179336,Europe/Berlin 
+8011044,Anklam,53.8561,13.701825,Europe/Berlin 
+8011051,Apolda,51.030943,11.526139,Europe/Berlin 
+8011102,Berlin Gesundbrunnen,52.548961,13.388515,Europe/Berlin 
+8011113,Berlin Südkreuz,52.475042,13.365314,Europe/Berlin 
+8011160,Berlin Hbf,52.525589,13.369548,Europe/Berlin 
+8011191,Ostseebad Binz,54.40482,13.600508,Europe/Berlin 
+8011956,Jena Paradies,50.924853,11.587464,Europe/Berlin 
+8012183,Leipzig/Halle Flughafen,51.42334,12.223423,Europe/Berlin 
+8012478,Leipzig Messe,51.396148,12.389274,Europe/Berlin 
+8012666,Potsdam Hbf,52.391703,13.066782,Europe/Berlin 
+8012683,Prora,54.444984,13.564057,Europe/Berlin 
+8012763,Ribnitz-Damgarten West,54.239175,12.436962,Europe/Berlin 
+8013236,Warnemünde,54.176853,12.091273,Europe/Berlin 
+8013470,Bernau(b Berlin),52.675834,13.592292,Europe/Berlin 
+8070003,Frankfurt(M) Flughafen Fernbf,50.053169,8.57018,Europe/Berlin 
+8070004,Frankfurt(M) Flughafen Regionalbf,50.051218,8.57125,Europe/Berlin 
+8073368,Köln Messe/Deutz Gl.11-12,50.941716,6.974065,Europe/Berlin 
+8089124,Frankfurt(Oder)(Gr),52.321174,14.576404,Europe/Berlin 
+8089126,Schöna(Gr),50.860058,14.22213,Europe/Berlin 
+8098160,Berlin Hbf (tief),52.525589,13.369548,Europe/Berlin 
+8098262,München Hbf Gl.5-10,48.140093,11.555372,Europe/Berlin 
+8100001,Kufstein,47.583077,12.165551,Europe/Vienna 
+8100002,Salzburg Hbf,47.813048,13.04582,Europe/Vienna 
+8100004,Wien Hbf (Autoreisezuganlage),48.176626,16.392872,Europe/Vienna 
+8100008,St.Pölten Hbf,48.208304,15.624672,Europe/Vienna 
+8100012,Amstetten NÖ,48.121603,14.878109,Europe/Vienna 
+8100013,Linz Hbf,48.290177,14.292129,Europe/Vienna 
+8100014,Wels Hbf,48.166081,14.02657,Europe/Vienna 
+8100017,Attnang-Puchheim,48.012797,13.720721,Europe/Vienna 
+8100040,Hallein,47.685167,13.099431,Europe/Vienna 
+8100041,Golling-Abtenau,47.600579,13.164082,Europe/Vienna 
+8100042,Bischofshofen,47.417855,13.219887,Europe/Vienna 
+8100043,St. Johann im Pongau,47.348377,13.19496,Europe/Vienna 
+8100044,Schwarzach-St.Veit,47.318533,13.154463,Europe/Vienna 
+8100048,Zell am See,47.32052,12.796567,Europe/Vienna 
+8100049,Saalfelden,47.426853,12.829764,Europe/Vienna 
+8100052,Hochfilzen,47.467709,12.626527,Europe/Vienna 
+8100053,Fieberbrunn,47.491135,12.52894,Europe/Vienna 
+8100054,St. Johann in Tirol,47.519622,12.430778,Europe/Vienna 
+8100055,Kitzbühel,47.454109,12.391045,Europe/Vienna 
+8100057,Kirchberg in Tirol,47.448922,12.3091,Europe/Vienna 
+8100058,Westendorf in Tirol,47.44111,12.222902,Europe/Vienna 
+8100059,Hopfgarten im Brixental,47.455349,12.149181,Europe/Vienna 
+8100060,Telfs-Pfaffenhofen,47.300708,11.078872,Europe/Vienna 
+8100061,Ötztal,47.238484,10.859113,Europe/Vienna 
+8100062,Imst-Pitztal,47.219077,10.761669,Europe/Vienna 
+8100063,Landeck-Zams,47.148242,10.578388,Europe/Vienna 
+8100064,St. Anton am Arlberg,47.127566,10.266993,Europe/Vienna 
+8100065,Langen am Arlberg,47.131719,10.12037,Europe/Vienna 
+8100067,Bludenz,47.154723,9.814566,Europe/Vienna 
+8100070,Leoben Hbf,47.3866,15.089607,Europe/Vienna 
+8100071,St.Michael in Obersteiermark,47.346625,15.009189,Europe/Vienna 
+8100079,Krumpendorf/Wörthersee,46.626337,14.22151,Europe/Vienna 
+8100080,Pörtschach am Wörther See,46.636198,14.146234,Europe/Vienna 
+8100081,Velden am Wörther See,46.620053,14.044836,Europe/Vienna 
+8100085,Klagenfurt Hbf,46.615586,14.313568,Europe/Vienna 
+8100090,Bregenz,47.503001,9.739623,Europe/Vienna 
+8100092,Spittal-Millstättersee,46.795703,13.487415,Europe/Vienna 
+8100093,Mallnitz-Obervellach,46.981671,13.176424,Europe/Vienna 
+8100095,Bad Gastein,47.111745,13.131999,Europe/Vienna 
+8100097,Bad Hofgastein,47.195714,13.100941,Europe/Vienna 
+8100098,Dorfgastein,47.238673,13.103063,Europe/Vienna 
+8100099,Wörgl Hbf,47.4918,12.060584,Europe/Vienna 
+8100102,Jenbach,47.388451,11.778457,Europe/Vienna 
+8100108,Innsbruck Hbf,47.263277,11.401,Europe/Vienna 
+8100113,Seefeld in Tirol,47.328727,11.189484,Europe/Vienna 
+8100122,Dornbirn,47.417693,9.738805,Europe/Vienna 
+8100131,Liezen,47.562707,14.241888,Europe/Vienna 
+8100132,Stainach-Irdning,47.529195,14.106753,Europe/Vienna 
+8100137,Schladming,47.393827,13.678148,Europe/Vienna 
+8100138,Radstadt,47.384235,13.467809,Europe/Vienna 
+8100147,Villach Hbf,46.618624,13.848538,Europe/Vienna 
+8100150,Selzthal,47.550239,14.31284,Europe/Vienna 
+8100173,Graz Hbf,47.072301,15.416437,Europe/Vienna 
+8100197,Feldkirch,47.240974,9.604102,Europe/Vienna 
+8100309,Stadt Rottenmann,47.527227,14.367171,Europe/Vienna 
+8100353,Flughafen Wien,48.120901,16.563074,Europe/Vienna 
+8100366,Brixen im Thale,47.449227,12.260549,Europe/Vienna 
+8100507,Vöcklabruck,48.010064,13.663702,Europe/Vienna 
+8100514,Wien Meidling,48.17445,16.333085,Europe/Vienna 
+8100539,Werfen,47.472599,13.195184,Europe/Vienna 
+8101044,Kitzbühel Hahnenkamm,47.443384,12.389859,Europe/Vienna 
+8101917,Salzburg Süd,47.770223,13.078486,Europe/Vienna 
+8103000,Wien Hbf,48.184923,16.375864,Europe/Vienna 
+8200100,Luxembourg,49.599717,6.134391,Europe/Luxembourg 
+8300046,Milano Centrale,45.487143,9.204828,Europe/Rome 
+8300048,Brescia,45.532161,10.212869,Europe/Rome 
+8300076,Bressanone/Brixen,46.709892,11.649768,Europe/Rome 
+8300084,Bolzano/Bozen,46.49638,11.358787,Europe/Rome 
+8300086,Conegliano,45.884664,12.299104,Europe/Rome 
+8300089,Fortezza/Franzensfeste,46.788718,11.61008,Europe/Rome 
+8300092,Brennero/Brenner,47.002338,11.505428,Europe/Rome 
+8300093,Venezia Mestre,45.481902,12.2319,Europe/Rome 
+8300094,Venezia Santa Lucia,45.441397,12.320462,Europe/Rome 
+8300098,Padova,45.417827,11.88062,Europe/Rome 
+8300101,Trento,46.072287,11.118901,Europe/Rome 
+8300106,Desenzano del Garda/Sirmione,45.462665,10.536274,Europe/Rome 
+8300110,Pordenone,45.956353,12.653683,Europe/Rome 
+8300111,Portogruaro-Caorle,45.78091,12.831202,Europe/Rome 
+8300113,Rovereto,45.890956,11.033602,Europe/Rome 
+8300115,Udine,46.055783,13.242162,Europe/Rome 
+8300119,Tarvisio,46.534845,13.640537,Europe/Rome 
+8300120,Verona Porta Nuova,45.428659,10.982741,Europe/Rome 
+8300124,Peschiera del Garda,45.437576,10.701181,Europe/Rome 
+8300126,Vicenza,45.541096,11.540774,Europe/Rome 
+8300130,Treviso Centrale,45.6597,12.245132,Europe/Rome 
+8300148,Chiusi-Chianciano Terme,43.002471,11.9579,Europe/Rome 
+8300151,Firenze S.M.N.,43.77681,11.247806,Europe/Rome 
+8300179,Arezzo,43.461073,11.875388,Europe/Rome 
+8300217,Bologna Centrale,44.506141,11.343406,Europe/Rome 
+8300257,Orvieto,42.723931,12.126753,Europe/Rome 
+8300263,Roma Termini,41.900492,12.50279,Europe/Rome 
+8300533,Rovato,45.552099,10.001362,Europe/Rome 
+8303915,Tarvisio Boscoverde,46.506358,13.607214,Europe/Rome 
+8400051,Almelo,52.357284,6.654813,Europe/Amsterdam 
+8400055,Amersfoort,52.153642,5.373239,Europe/Amsterdam 
+8400058,Amsterdam Centraal,52.37919,4.899426,Europe/Amsterdam 
+8400066,Apeldoorn,52.209429,5.967489,Europe/Amsterdam 
+8400071,Arnhem,51.98478,5.901004,Europe/Amsterdam 
+8400080,Almere Centrum,52.375244,5.218768,Europe/Amsterdam 
+8400173,Deventer,52.257432,6.160505,Europe/Amsterdam 
+8400194,Duivendrecht,52.323556,4.936552,Europe/Amsterdam 
+8400316,Hengelo,52.261854,6.793723,Europe/Amsterdam 
+8400322,Hilversum,52.22667,5.1814,Europe/Amsterdam 
+8400561,Schiphol (Airport),52.308787,4.761487,Europe/Amsterdam 
+8400621,Utrecht Centraal,52.089396,5.109864,Europe/Amsterdam 
+8400644,Venlo,51.364407,6.17184,Europe/Amsterdam 
+8500010,Basel SBB,47.547075,7.589169,Europe/Zurich
+8500023,Liestal,47.484375,7.731352,Europe/Zurich 
+8500026,Sissach,47.462747,7.812021,Europe/Zurich 
+8500218,Olten,47.352009,7.907621,Europe/Zurich 
+8502113,Aarau,47.391148,8.051323,Europe/Zurich 
+8502119,Lenzburg,47.391301,8.170583,Europe/Zurich 
+8503000,Zürich HB,47.378186,8.539203,Europe/Zurich 
+8503016,Zürich Flughafen,47.450279,8.562333,Europe/Zurich 
+8503424,Schaffhausen,47.698921,8.632898,Europe/Zurich 
+8503504,Baden(CH),47.476465,8.307408,Europe/Zurich 
+8506000,Winterthur,47.500511,8.723482,Europe/Zurich 
+8506206,Wil(CH),47.462343,9.04019,Europe/Zurich 
+8506210,Gossau SG,47.411635,9.253504,Europe/Zurich 
+8506302,St. Gallen(CH),47.423276,9.369303,Europe/Zurich 
+8506314,St. Margrethen,47.453353,9.638413,Europe/Zurich 
+8507000,Bern,46.949113,7.438483,Europe/Zurich 
+8507100,Thun,46.754856,7.629576,Europe/Zurich 
+8507483,Spiez,46.686394,7.680095,Europe/Zurich 
+8507492,Interlaken Ost,46.690691,7.868977,Europe/Zurich 
+8507493,Interlaken West,46.682627,7.851439,Europe/Zurich 
+8509000,Chur,46.85344,9.528475,Europe/Zurich 
+8509002,Landquart,46.967451,9.554059,Europe/Zurich 
+8509411,Sargans,47.044794,9.446269,Europe/Zurich 
+8600623,Fredericia st,55.568087,9.738814,Europe/Copenhagen 
+8601031,Hoeje Taastrup st,55.648621,12.268801,Europe/Copenhagen 
+8601242,Koebenhavns Lufthavn st,55.629609,12.649377,Europe/Copenhagen 
+8601309,Koebenhavn H,55.672721,12.564618,Europe/Copenhagen 
+8601318,Kolding st,55.490842,9.481525,Europe/Copenhagen 
+8601343,Korsoer st,55.3572,11.135126,Europe/Copenhagen 
+8601512,Lunderskov st,55.480118,9.30379,Europe/Copenhagen 
+8601593,Middelfart st,55.501621,9.734661,Europe/Copenhagen 
+8601739,Nyborg st,55.31407,10.802921,Europe/Copenhagen 
+8601745,Nykoebing F st,54.766833,11.87777,Europe/Copenhagen 
+8601770,Odense st,55.401777,10.386001,Europe/Copenhagen 
+8601811,Orehoved st,54.939076,11.867756,Europe/Copenhagen 
+8601899,Padborg st,54.824247,9.358804,Europe/Copenhagen 
+8601979,Ringsted st,55.43804,11.786152,Europe/Copenhagen 
+8601988,Roedby,54.655718,11.357466,Europe/Copenhagen 
+8601996,Roedekro st,55.069689,9.332753,Europe/Copenhagen 
+8602026,Roskilde st,55.639012,12.088855,Europe/Copenhagen 
+8602254,Slagelse st,55.407548,11.348054,Europe/Copenhagen 
+8602350,Soroe st,55.419019,11.568793,Europe/Copenhagen 
+8602553,Tinglev st,54.936172,9.258233,Europe/Copenhagen 
+8602714,Valby(Koebenhavn),55.663795,12.514323,Europe/Copenhagen 
+8602722,Vamdrup st,55.428089,9.28645,Europe/Copenhagen 
+8602887,Vojens st,55.248475,9.304914,Europe/Copenhagen 
+8700011,Paris Est,48.876975,2.35912,Europe/Paris 
+8700023,Strasbourg,48.585338,7.734067,Europe/Paris 
+8700031,Mulhouse Ville,47.741952,7.343045,Europe/Paris 
+8700074,Marseille-St-Charles,43.303816,5.381949,Europe/Paris 
+8700091,Chalon sur Saône,46.781742,4.843396,Europe/Paris 
+8700152,Lyon Part Dieu,45.760568,4.859991,Europe/Paris 
+8700271,Forbach(F),49.189215,6.900254,Europe/Paris 
+8700729,Lorraine,48.947406,6.169692,Europe/Paris 
+8704918,Avignon TGV,43.921932,4.786045,Europe/Paris 
+8704980,Aix-en-Provence TGV,43.455167,5.317227,Europe/Paris 
+8730082,Belfort-Montbéliard TGV,47.585935,6.897629,Europe/Paris 
+8730086,Besançon Franche-Comté TGV,47.307557,5.952674,Europe/Paris 
+8800002,Bruxelles-Nord,50.860238,4.361458,Europe/Brussels 
+8800004,Bruxelles Midi,50.835374,4.335695,Europe/Brussels 
+8800012,Liège-Guillemins,50.624361,5.56648,Europe/Brussels 
