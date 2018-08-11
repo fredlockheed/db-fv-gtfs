@@ -29,11 +29,13 @@ It is done without any knowledge of, consent of, or endorsment from the author o
 
 Anyone with enough server resources an patience can produce the provided GTFS feed. Instructions:
 
-* Request a DB Fahrplan API key via [DBOpenData@deutschebahn.com](mailto:DBOpenData@deutschebahn.com?subject=Fahrplan-API Key)
+* Request a DB Fahrplan API key via [DBOpenData@deutschebahn.com](mailto:DBOpenData@deutschebahn.com?subject=Fahrplan-API+Key)
+* Check the dates for the timetable period [here](http://www.grahnert.de/fernbahn/datenbank/fahrplanjahre/).
+Add one day to the end date. Example: for 2018 take `2017-12-10`/`2018-12-09`.
 * Launch an AWS EC2 Instance
   * Prefer EU (Frankfurt) region
   * Prefer Debian GNU/Linux 8 (Jessie) AMI
-  * Even the smallest `t2.nano` should be fine
+  * Prefer instance type with `Moderate` network performance and above, ex. `t2.xlarge`
 * Connect via `ssh`
 * Execute:  
 ```
@@ -46,7 +48,7 @@ sudo pip install python-dateutil
 sudo pip install unicodecsv
 git clone https://github.com/patrickbr/db-api-to-gtfs.git
 cd db-api-to-gtfs
-nohup ./db_to_gtfs.py --api-key <API_KEY> --start-date 2016-12-11 --end-date 2017-12-10 > std.txt 2> err.txt &
+nohup ./db_to_gtfs.py --api-key <API_KEY> --start-date 2017-12-10 --end-date 2018-12-09 > std.txt 2> err.txt &
 tail -f std.txt`
 ```
 * Wait for approximately 2-3 days until the script finishes
