@@ -49,7 +49,7 @@ sudo pip install unicodecsv
 git clone https://github.com/patrickbr/db-api-to-gtfs.git
 cd db-api-to-gtfs
 nohup ./db_to_gtfs.py --api-key <API_KEY> --start-date 2017-12-10 --end-date 2018-12-09 > std.txt 2> err.txt &
-tail -f std.txt`
+tail -f std.txt
 ```
 * Wait for approximately 2-3 days until the script finishes
 * Download the data
