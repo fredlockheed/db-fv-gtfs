@@ -4,11 +4,12 @@ SBB,SBB,http://www.bahn.de,Europe/Berlin,de
 EC,EC,http://www.bahn.de,Europe/Berlin,de
 ÖBB,ÖBB,http://www.bahn.de,Europe/Berlin,de
 NS,NS,http://www.bahn.de,Europe/Berlin,de
-DPN,DPN,http://www.bahn.de,Europe/Berlin,de
 DSB,DSB,http://www.bahn.de,Europe/Berlin,de
 MAV,MAV,http://www.bahn.de,Europe/Berlin,de
 CD,CD,http://www.bahn.de,Europe/Berlin,de
 PKP,PKP,http://www.bahn.de,Europe/Berlin,de
-SCF,SCF,http://www.bahn.de,Europe/Berlin,de
+RE,RE,http://www.bahn.de,Europe/Berlin,de
+DPN,DPN,http://www.bahn.de,Europe/Berlin,de
+RZD,RZD,http://www.bahn.de,Europe/Berlin,de
 SWX,SWX,http://www.bahn.de,Europe/Berlin,de
 CFL,CFL,http://www.bahn.de,Europe/Berlin,de

@@ -1,6 +1,6 @@
 **TL;DR [Download](https://github.com/fredlockheed/db-fv-gtfs/releases/download/latest/db-fv-gtfs.zip)**
 
-# Unofficial Deutsche Bahn Fernverkehr (German Railways Long-Distance Trains) Timetable 2016 GTFS Feed
+# Unofficial Deutsche Bahn Fernverkehr (German Railways Long-Distance Trains) Timetable GTFS Feeds
 
 Deutsche Bahn (German Railways) now publishes its long-distance trains timetable via [REST-like API](http://data.deutschebahn.com/apis/fahrplan/) under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
@@ -33,7 +33,7 @@ Anyone with enough server resources an patience can produce the provided GTFS fe
 
 * Request a DB Fahrplan API key via [DBOpenData@deutschebahn.com](mailto:DBOpenData@deutschebahn.com?subject=Fahrplan-API+Key)
 * Check the dates for the timetable period [here](http://www.grahnert.de/fernbahn/datenbank/fahrplanjahre/).
-Add one day to the end date. Example: for 2018 take `2017-12-10`/`2018-12-09`.
+Add one day to the end date. Example: for 2019 take `2018-12-09`/`2019-12-15`.
 * Launch an AWS EC2 Instance
   * Prefer EU (Frankfurt) region
   * Prefer Debian GNU/Linux 8 (Jessie) AMI
@@ -50,7 +50,7 @@ sudo pip install python-dateutil
 sudo pip install unicodecsv
 git clone https://github.com/patrickbr/db-api-to-gtfs.git
 cd db-api-to-gtfs
-nohup ./db_to_gtfs.py --api-key <API_KEY> --start-date 2017-12-10 --end-date 2018-12-09 > std.txt 2> err.txt &
+nohup ./db_to_gtfs.py --api-key <API_KEY> --start-date 2018-12-09 --end-date 2019-12-15 > std.txt 2> err.txt &
 tail -f std.txt
 ```
 * Wait for approximately 2-3 days until the script finishes
